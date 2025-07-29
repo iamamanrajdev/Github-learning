@@ -8,19 +8,19 @@ function updateBalance(value){
 }
 
 
-// console.log("Hello Coders");
+console.log("Hello Coders");
 
-// console.log("Hello Ji");
+console.log("Hello git");
 
 
-// const c = 20+10;
-// console.log(c);
+const c = 20+10;
+console.log(c);
 
-// function balancechecker(){
-//     // 
-//     console.log("UPdate");
-//     // 
-// }
+function balancechecker(){
+    // 
+    console.log("UPdate");
+    // 
+}
 //*Problem
 //*Code update kiya website crash hogyi coder ko revert back karna hoga
 //* ownership of code matlab company me 3-4 bande ek project per kaam kar rahe to malum hona chhaiyae na kaun sa code kisne likha
