@@ -30,4 +30,32 @@ let balance="4200";
  let one=3455;
  let sabji="dhaniya";
 
+function balancechecker(){
+    //
+}
 
+//* ✅ 1. git init
+
+// *Ye command current folder ko Git repository bana deta hai.
+//* git init-📦 Creates a hidden .git/ folder.
+
+//* ✅ 2. git add → Stage file
+
+//* Git me koi bhi file direct commit nahi hoti.
+//* Pehle use “stage” karna padta hai:
+// *git add filename     # ek specific file
+//* git add .            # sabhi changes ko stage me lao 🟡 “Staging” = Final commit ke liye ready karna
+
+//* ✅ 3. git status → Check kya ho raha hai-git status
+// 	*•	🔴 Red → Not staged (only modified)
+// *	•	🟢 Green → Staged (ready to commit)
+
+//*✅ 4. git commit → Save a snapshot-git commit -m "Meaningful message"
+//*💡 Commit sirf staged files ka snapshot save karta hai.
+//*✅ 5. git diff → Dekho kya badla hai
+//*🔍 Dikhata hai unstaged changes (jo git add ke baad nahi aaye)
+
+// *✅ 6. File ko Stage se hataana (undo git add)
+//* Galti se add kar diya? git restore --staged filename 🧽 Ye sirf stage se hatata hai, file delete nahi hoti.
+//* ⚠️ Agar sirf staging se hataana hai, file ko delete nahi karna:
+//* git restore --staged Day01/first.js
