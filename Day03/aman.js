@@ -33,8 +33,6 @@ let late=230;
 //*ye bhi new commit bana ta hai jis commit se button hatana tha wo button wala code hatake baki ka code is naye commit me dalega purni wali history
 //*delete nai hoti isliye new commit per wo buton wala code hatake baki ka is new waleme dal dega
 
-//*************************************************************************************** */
-
 
 
 
