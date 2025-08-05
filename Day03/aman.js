@@ -66,7 +66,7 @@ console.log("main hoon don")
 //*phir git merge ka use karo then merge conflict aata hai to tm dekho kaun sa call lena hai
 
 //*------------------------------------------------------------------------------------------------------------------------------
-//*How to delete branch
+//*How to delete branches
 
 
 
