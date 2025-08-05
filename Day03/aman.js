@@ -1,11 +1,11 @@
 //*GIT IS VERY IMP DONT MEMORIZE IT INTERNALLY SAMJHO
 let name ="aman";
-let age=60;
+let age=90;
 let year=2025;
 let late=230;
 
 function updatebalance(){
-    balance+=20;
+    balance+=30;
 
 }
 updatebalance();
@@ -51,16 +51,22 @@ console.log(balance);
 //* ME MERGE KARDE .
 
 console.log("aman") 
+//*-----------------------------------------------------------------------------------------------------------
 //*git checkout -b name se new branch create hoga
 //*jo bhi change karna hai delete karna hai isme hoga  commit karte jao 
 //*check kar lo kaun se branch me ho gitbranch type karke
 //*phir git merge se feature branch master branch ke sath merge kardo done
-
+//*-------------------------------------------------------------------------------------------------------------------
 console.log("main hun merge conflict") //*merge karna haigit
 console.log("main hoon don")
 
 //*merge conflict
+//*pehle git checkout  -b file name karke branch create karo 
+//*phir usme jo change karna hai karo phir git checkout master karke master me switch ho jao
+//*phir git merge ka use karo then merge conflict aata hai to tm dekho kaun sa call lena hai
 
+//*------------------------------------------------------------------------------------------------------------------------------
+//*How to delete branch
 
 
 
