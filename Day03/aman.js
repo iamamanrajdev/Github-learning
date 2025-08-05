@@ -47,7 +47,11 @@ let late=230;
 
 console.log("aman") 
 //*git checkout -b name se new branch create hoga
-//*jo bhi change karna hai delete karna hai isme hoga 
+//*jo bhi change karna hai delete karna hai isme hoga  commit karte jao 
+//*check kar lo kaun se branch me ho gitbranch type karke
+//*phir git merge se feature branch master branch ke sath merge kardo done
+
+console.log("main hun merge conflict") //*merge karna haigit
 
 
 
