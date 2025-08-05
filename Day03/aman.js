@@ -1,7 +1,33 @@
 //*GIT IS VERY IMP DONT MEMORIZE IT INTERNALLY SAMJHO
 let name ="aman";
 let age=20;
-let year=2025;q
+let year=2025;
+
+let late=230;
+
+//*TO JAISE HM LOG FIRSTCOMMIT PHIR SECOND COMMIT PHIR THIR COMMIT KIYA TO YE SARE KO MASTER BRANCH BOLTE HAI
+//*AUR JO LATEST COMMIT HOTA HAI USPE HEAD REHTA HAI
+//*aur ye sare branch apne parent per depend hote hai third to second se modify hoke hi na bana hoga
+
+//*1-GIT LOG -SARA DETAILS DEGA KITNA COMMIT HUA
+//* 2-GIT LOG --ONELINE SHORT ME COMMIT KA ID DETA HAI 
+//*3-GIT SHOW lateest commit me kya kya change hua hai wo dikhayega
+//*4 git show <commitid> batat hai us particula commit me kya change hua
+
+//*git reset --hard <code>
+//*Ab Manlo latest commit per head hai AUR US COMMIT KE KARAN CODE FAT GAYA TO TMKO HEAD KO REVERT BACK KARKE PURANE WALEPER LANA HAI
+//*SABSE PEHLE CHECK KARENGE HEAD KISPER HAI git log se then git reset --hard commit code to ye latest commit 
+//*wala sara code delete ho jayega ya ni wo ek stage piche chala gaya
+
+//*DISADVANTAGE HAI KI JIS CODE SE ISKO PICHE LE JAYENGE MAN LO THIRD COMMIT PER HAI AUR FIRST COMMIT
+//*PER LEKAR JA RHE HAI TO YE THIRD SECOND SARA CODE JO CHANGE HUA HOGA DELETE KAR DEGA
+
+
+//*AB MAN LO SECOND COMMIT EK WEBISE ME BUTTON ADD KIYE PHIR USKO COMMIT KIYE USKE KARAN CODE FAT GAYA TO RESET HARD KARNE PER TO BAKI SARA CODE DELETE KAREGA
+//*HMKO TO SIRF BUTTON WALA CODE DELETE KARNA HAI
+
+//*ISKO ACHIEVE KARENE KE LIYE GIT REVERT USE KARENGE 
+
 
 
 
