@@ -59,3 +59,5 @@ function balancechecker(){
 //* Galti se add kar diya? git restore --staged filename 🧽 Ye sirf stage se hatata hai, file delete nahi hoti.
 //* ⚠️ Agar sirf staging se hataana hai, file ko delete nahi karna:
 //* git restore --staged Day01/first.js
+
+let fame="1234";
