@@ -1,6 +1,6 @@
 //*GIT IS VERY IMP DONT MEMORIZE IT INTERNALLY SAMJHO
 let name ="aman";
-let age=20;
+let age=60;
 let year=2025;
 let late=230;
 
