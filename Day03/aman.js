@@ -1,11 +1,11 @@
 //*GIT IS VERY IMP DONT MEMORIZE IT INTERNALLY SAMJHO
 let name ="aman";
-let age=20;
+let age=90;
 let year=2025;
 let late=230;
 
 function updatebalance(){
-    balance+=20;
+    balance+=30;
 
 }
 updatebalance();
