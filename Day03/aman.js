@@ -4,7 +4,7 @@ let age=20;
 let year=2025;
 
 let late=230;
-let paste="pepsodent"
+
 
 //*TO JAISE HM LOG FIRSTCOMMIT PHIR SECOND COMMIT PHIR THIR COMMIT KIYA TO YE SARE KO MASTER BRANCH BOLTE HAI
 //*AUR JO LATEST COMMIT HOTA HAI USPE HEAD REHTA HAI
@@ -27,7 +27,11 @@ let paste="pepsodent"
 //*AB MAN LO SECOND COMMIT EK WEBISE ME BUTTON ADD KIYE PHIR USKO COMMIT KIYE USKE KARAN CODE FAT GAYA TO RESET HARD KARNE PER TO BAKI SARA CODE DELETE KAREGA
 //*HMKO TO SIRF BUTTON WALA CODE DELETE KARNA HAI
 
+//*Git revert
 //*ISKO ACHIEVE KARENE KE LIYE GIT REVERT USE KARENGE 
+//*git revert commit id
+//*ye bhi new commit bana ta hai jis commit se button hatana tha wo button wala code hatake baki ka code is naye commit me dalega purni wali history
+//*delete nai hoti isliye new commit per wo buton wala code hatake baki ka is new waleme dal dega
 
 
 
