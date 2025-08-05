@@ -54,6 +54,13 @@ console.log("aman")
 console.log("main hun merge conflict") //*merge karna haigit
 console.log("main hoon don")
 
+let name ="aman";
+let age=20;
+let year=2025;
+
+let late=230;
+console.log("aman");
+
 
 
 
