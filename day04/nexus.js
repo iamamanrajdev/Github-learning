@@ -30,3 +30,11 @@ console.log(footer)
 //*feature payment
 const payment="payment section added"
 console.log(payment)
+
+//*feature payment
+const payment="payment section added"
+console.log(payment)
+//*feature upi
+const uee3i="enter your upi id"
+console.log(ue33i)
+//*endadjf8ddsg8
