@@ -26,3 +26,6 @@ console.log(user)
 //*feature payment
 const payment="payment section added"
 console.log(payment)
+//*feature upi
+const upi="enter your upi id"
+console.log(upi)
