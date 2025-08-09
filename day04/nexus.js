@@ -22,3 +22,6 @@ console.log(login)
 //*mobile recharge
 const user="enter your mob no";
 console.log(user)
+//*footer
+const footer="footer added in website";
+console.log(footer)
