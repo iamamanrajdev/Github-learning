@@ -22,3 +22,7 @@ console.log(login)
 //*mobile recharge
 const user="enter your mob no";
 console.log(user)
+
+//*feature payment
+const payment="payment section added"
+console.log(payment)
