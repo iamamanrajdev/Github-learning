@@ -36,3 +36,6 @@ console.log(payment)
 const uee3i="enter your upi id"
 console.log(ue33i)
 //*endadjf8ddsg8
+
+//*aman
+console.log("my name is aman")
