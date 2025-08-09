@@ -15,3 +15,6 @@
 // 	•	Merge: Commit history me extra “merge commit” banata hai. History zig-zag ho sakti hai.
 // 	•	Rebase: Tumhare commits ko uthake nayi base branch ke latest commit ke upar dobara lagata hai — history ekdum straight ho jaati hai.
 
+//*website
+const login="hi aman welcome to paytm"
+console.log(login)
