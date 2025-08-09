@@ -27,6 +27,6 @@ console.log(user)
 const payment="payment section added"
 console.log(payment)
 //*feature upi
-const ueei="enter your upi id"
-console.log(ueei)
-//*end
+const uee3i="enter your upi id"
+console.log(ue33i)
+//*endadjf8ddsg8
