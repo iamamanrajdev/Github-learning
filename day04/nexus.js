@@ -25,3 +25,8 @@ console.log(user)
 //*footer
 const footer="footer added in website";
 console.log(footer)
+
+//**testing website */
+//*feature payment
+const payment="payment section added"
+console.log(payment)
