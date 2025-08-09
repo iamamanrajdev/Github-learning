@@ -18,3 +18,7 @@
 //*website
 const login="hi aman welcome to paytm"
 console.log(login)
+
+//*mobile recharge
+const user="enter your mob no";
+console.log(user)
